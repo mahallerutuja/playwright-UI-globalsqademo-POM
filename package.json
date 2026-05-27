@@ -1,0 +1,22 @@
+{
+  "name": "playwright-ui-globalsqademo-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahallerutuja/playwright-UI-globalsqademo-POM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahallerutuja/playwright-UI-globalsqademo-POM/issues"
+  },
+  "homepage": "https://github.com/mahallerutuja/playwright-UI-globalsqademo-POM#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
